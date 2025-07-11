@@ -1,0 +1,14 @@
+{
+  "parts": [
+    {
+      "id": "A-051",
+      "description": "Stiffener for .25 tubing, dome head, .156 HD Dia",
+      "keywords": ["A-051", ".25", "stiffener", "dome", ".156"]
+    },
+    {
+      "id": "B-070",
+      "description": "Snap button for .37 tubing, flat head, .187 HD Dia",
+      "keywords": ["B-070", ".37", "snap", "flat", ".187"]
+    }
+  ]
+}
